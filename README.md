@@ -29,7 +29,7 @@
 ### ☕关于我
 - [技术笔记](https://github.com/hxysaury/The-Road-to-Safety)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
-- [个人Blog](https://hxysaury.github.io/)
+- [Blog](https://hxysaury.github.io/)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
