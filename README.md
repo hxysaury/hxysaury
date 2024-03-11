@@ -3,7 +3,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-👩‍💻 本人网安练习生⭐️ From China
+👩‍💻 网安练习生一枚⭐️ From China
 
 
 ### 🛠 技术栈 | Tech Stack
@@ -29,6 +29,7 @@
 ### ☕关于我
 - [技术笔记](https://github.com/hxysaury/The-Road-to-Safety)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
+- [个人Blog](https://hxysaury.github.io/)
 
 
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
