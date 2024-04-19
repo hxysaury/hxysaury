@@ -27,7 +27,7 @@
 
 
 ### ☕关于我
-- [技术笔记](https://github.com/hxysaury/Safety-Notes/tree/master)
+- [技术笔记](https://github.com/hxysaury/Safety-Notes)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
 - [Blog](https://hxysaury.github.io/)
 
