@@ -27,12 +27,9 @@
 
 
 ### ☕关于我
-- [技术笔记](https://github.com/hxysaury/The-Road-to-Safety)
+- [技术笔记](https://github.com/hxysaury/Safety-Notes/tree/master)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
 - [Blog](https://hxysaury.github.io/)
-
-
-> ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
 
 <p align="left">
   
