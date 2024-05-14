@@ -29,7 +29,7 @@
 ### ☕关于我
 - [技术笔记](https://github.com/hxysaury/hxysaury-The-Road-to-Safety?tab=readme-ov-file)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
-- [Blog](https://hxysaury.github.io/)
+- [Blog](https://blog.saurysafe.icu/)
 
 <p align="left">
   
