@@ -27,7 +27,7 @@
 
 
 ### ☕关于我
-- [技术笔记](https://github.com/hxysaury/The-Road-to-Safety/tree/main)
+- [安全之路](https://github.com/hxysaury/The-Road-to-Safety/tree/main)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
 - [Blog](https://blog.saurysafe.icu/)
 
