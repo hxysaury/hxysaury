@@ -29,7 +29,7 @@
 ### ☕关于我
 - [安全之路](https://github.com/hxysaury/The-Road-to-Safety/tree/main)
 - [CSDN](https://blog.csdn.net/ZhaoSong_)
-- [Blog](https://blog.saurysafe.icu/)
+- [win-terminal折腾](https://github.com/hxysaury/winterminal-config)
 
 <p align="left">
   
